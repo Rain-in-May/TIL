@@ -1,2 +1,1 @@
-# TIL
-✨ Today I learned 저장소
+# Today I Learned (TIL)
